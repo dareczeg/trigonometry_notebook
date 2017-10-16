@@ -1,0 +1,14 @@
+C:\Users\TEMP.VLO30-14.002\documents\visual studio 2010\Projects\Programgraficzny1\Programgraficzny1\obj\x86\Debug\Programgraficzny.Form1.resources
+C:\Users\TEMP.VLO30-14.002\documents\visual studio 2010\Projects\Programgraficzny1\Programgraficzny1\obj\x86\Debug\Programgraficzny.Properties.Resources.resources
+C:\Users\TEMP.VLO30-14.002\documents\visual studio 2010\Projects\Programgraficzny1\Programgraficzny1\obj\x86\Debug\Programgraficzny1.csproj.GenerateResource.Cache
+C:\Users\TEMP.VLO30-14.002\documents\visual studio 2010\Projects\Programgraficzny1\Programgraficzny1\bin\Debug\Programgraficzny1.exe
+C:\Users\TEMP.VLO30-14.002\documents\visual studio 2010\Projects\Programgraficzny1\Programgraficzny1\bin\Debug\Programgraficzny1.pdb
+C:\Users\TEMP.VLO30-14.002\documents\visual studio 2010\Projects\Programgraficzny1\Programgraficzny1\obj\x86\Debug\Programgraficzny1.exe
+C:\Users\TEMP.VLO30-14.002\documents\visual studio 2010\Projects\Programgraficzny1\Programgraficzny1\obj\x86\Debug\Programgraficzny1.pdb
+C:\Users\Dariusz\Desktop\Programgraficzny1\Programgraficzny1\obj\x86\Debug\Programgraficzny1.exe
+C:\Users\Dariusz\Desktop\Programgraficzny1\Programgraficzny1\obj\x86\Debug\Programgraficzny1.pdb
+C:\Users\Dariusz\Desktop\Programgraficzny1\Programgraficzny1\bin\Debug\Programgraficzny1.exe
+C:\Users\Dariusz\Desktop\Programgraficzny1\Programgraficzny1\bin\Debug\Programgraficzny1.pdb
+C:\Users\Dariusz\Desktop\Programgraficzny1\Programgraficzny1\obj\x86\Debug\Programgraficzny.Form1.resources
+C:\Users\Dariusz\Desktop\Programgraficzny1\Programgraficzny1\obj\x86\Debug\Programgraficzny.Properties.Resources.resources
+C:\Users\Dariusz\Desktop\Programgraficzny1\Programgraficzny1\obj\x86\Debug\Programgraficzny1.csproj.GenerateResource.Cache

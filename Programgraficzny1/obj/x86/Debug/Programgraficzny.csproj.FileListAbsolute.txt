@@ -1,0 +1,3 @@
+C:\Users\TEMP.VLO30-14.002\AppData\Local\Temporary Projects\Programgraficzny\obj\x86\Debug\Programgraficzny.Form1.resources
+C:\Users\TEMP.VLO30-14.002\AppData\Local\Temporary Projects\Programgraficzny\obj\x86\Debug\Programgraficzny.Properties.Resources.resources
+C:\Users\TEMP.VLO30-14.002\AppData\Local\Temporary Projects\Programgraficzny\obj\x86\Debug\Programgraficzny.csproj.GenerateResource.Cache
